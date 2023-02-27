@@ -1,0 +1,186 @@
+:root {
+  --primary: #e0760c;
+  --bg: #010101;
+}
+
+#home h1 {
+  font-size: 5rem;
+}
+
+.about {
+  margin-top: 100px;
+  padding-top: 70px;
+}
+
+.contact {
+  padding-top: 50px;
+}
+
+.about img {
+  width: 100%;
+}
+
+.menu {
+  margin-top: 100px;
+}
+
+.btn-bgn {
+  background-color: #e0760c;
+}
+
+.hero {
+  width: 100%;
+}
+
+span {
+  color: #e0760c;
+}
+
+.pt-7 {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: var(--primary);
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer .social {
+  padding: 1rem 0;
+}
+
+footer .social a {
+  color: #ffff;
+  margin: 1rem;
+}
+
+footer .social a:hover,
+ooter .link a:hover {
+  color: var(--bg);
+}
+
+footer .link {
+  margin-bottom: 1.4rem;
+}
+
+footer .links a {
+  color: #ffff;
+  padding: 0.7rem 1rem;
+  text-decoration: none;
+}
+
+footer .credit {
+  font-size: 1rem;
+}
+
+footer .credit span {
+  color: var(--bg);
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  #home h1 {
+    font-size: 3em;
+  }
+}
+@media (max-width: 450px) {
+  #home h1 {
+    font-size: 2rem;
+  }
+}
+:root {
+  --primary: #e0760c;
+  --bg: #010101;
+}
+
+#home h1 {
+  font-size: 5rem;
+}
+
+.about {
+  margin-top: 100px;
+  padding-top: 70px;
+}
+
+.contact {
+  padding-top: 50px;
+}
+
+.about img {
+  width: 100%;
+}
+
+.menu {
+  margin-top: 100px;
+}
+
+.btn-bgn {
+  background-color: #e0760c;
+}
+
+.hero {
+  width: 100%;
+}
+
+span {
+  color: #e0760c;
+}
+
+.pt-7 {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: var(--primary);
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer .social {
+  padding: 1rem 0;
+}
+
+footer .social a {
+  color: #ffff;
+  margin: 1rem;
+}
+
+footer .social a:hover,
+ooter .link a:hover {
+  color: var(--bg);
+}
+
+footer .link {
+  margin-bottom: 1.4rem;
+}
+
+footer .links a {
+  color: #ffff;
+  padding: 0.7rem 1rem;
+  text-decoration: none;
+}
+
+footer .credit {
+  font-size: 1rem;
+}
+
+footer .credit span {
+  color: var(--bg);
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  #home h1 {
+    font-size: 3em;
+  }
+}
+@media (max-width: 450px) {
+  #home h1 {
+    font-size: 2rem;
+  }
+}
